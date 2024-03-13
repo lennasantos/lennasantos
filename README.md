@@ -16,10 +16,5 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-<div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src=https://profile-counter.glitch.me/{lennasanros}/count.svg" /></p> 
-  <br>
-</div>
 
 Apaixonada por tecnologia e mudando o mundo através de um click. 
