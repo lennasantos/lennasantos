@@ -18,7 +18,7 @@
 
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://github.com/lennasantos/count.svg" /></p> 
+    <p align="center"><img align="center" src=https://profile-counter.glitch.me/{lennasanros}/count.svg" /></p> 
   <br>
 </div>
 
