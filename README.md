@@ -15,4 +15,11 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
+
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+    <p align="center"><img align="center" src="https://github.com/lennasantos/count.svg" /></p> 
+  <br>
+</div>
+
 Apaixonada por tecnologia e mudando o mundo através de um click. 
