@@ -80,7 +80,7 @@
   <br>
 </div>
 
-![Snake animation](https://github.com/lennasantos/lennasantos/blod/output/github-contribution-grid-snake-svg)
+![Snake animation](https://github.com/lennasantos/lennasantos/blob/main/.github/workflows/cobrinhayml)
   
 
 
