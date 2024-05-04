@@ -79,6 +79,8 @@
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{lorenasantos}/count.svg" /></p> 
   <br>
 </div>
+
+![Snake animation](https://github.com/lennasantos/lennasantos/blod/output/github-contribution-grid-snake-svg)
   
 
 
