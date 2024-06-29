@@ -25,7 +25,8 @@
 </p>
 -->
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lennasantos&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FFFAFA&text_color=FF8C00&bg_color=0d1117" alt="lennasantos oficial github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api? 
+   username=lennasantos&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FFFAFA&text_color=FF8C00&bg_color=0d1117" alt="lennasantos oficial github stats" /> 
 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lennasantos&layout=compact&hide_border=true&title_color=FF0000&text_color=FF8C00&bg_color=0d1117" />
 </div>
