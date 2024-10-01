@@ -66,11 +66,6 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?logo=microsoftteams&style=for-the-badge&logoColor=fff)
 
----
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lennasantos&bg_color=161B22&color=9e9e9e&line=d6a8d3&point=91698e&area=true&hide_border=true "/>
-  </a>
 
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
