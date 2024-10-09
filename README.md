@@ -3,16 +3,6 @@
 
   ## <span style="color: red;">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=45&center=true&vCenter=true&width=1000&lines=<Olá,+Eu+Sou+Lorena!/>+:%29;<Desenvolvedora+Front-End/>+;<Hello,+I'm+Lorena!/>+:%29;<Front-End+Developer/>;)](https://git.io/typing-svg)</span>
 
-   💻 I'm Developer
-   
-   💪 I already counted on: | .CSS3 | .HTML5 | .React | .javaScript | .FIGMA |
-  
-   ❤ I am passionate about developing projects
-  
-   🔭 an eternal apprentice
-  
-   ✋ I accept improvement surgetões for my codes
-
   </br>
 <!--
 <p align="center">
