@@ -1,5 +1,4 @@
-```markdown
-<div align="center">
+```markdown id="x7s8in"
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF6B00&text=Lorena%20Santos&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=35"/>
 
@@ -148,4 +147,4 @@
 
 ```
 
-
+```markdown id="x7s8in"
