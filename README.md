@@ -1,150 +1,88 @@
-```markdown id="x7s8in"
+<h1 align="center"> Developer Full Stack founder Loretech.ls e Sabores do Universo </h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FF6B00&text=Lorena%20Santos&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=35"/>
+###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Java+%7C+Spring+Boot+%7C+MongoDB;Founder+%40+Loretech.ls;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+<h4 align="center"> 👩🏻‍🎓 Computer Network| 💻 Devoloper Web e Back End |📚 Continuous learning</h4>
 
+###
+
+<h3 align="left"> 👩🏻 About me </h3>
+
+<p align="center">•·•·•·•·•·•·•·•·•·••·•·•·•·•·•·•·•·•·••·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·••·•·•·•·•·•·•·•·•·••·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·••·•·•·•·•·•·•·•·•·••·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·</p>
+
+###
+<p align="left">MEI entrepreneur and founder of Loretech.ls and Sabores do Universo, with over three years of experience in technology.
+I have experience in full-stack development, creating modern web applications, databases, system architecture, and business-oriented digital solutions.
+My work combines technical expertise, an entrepreneurial mindset, and a focus on customer experience.
+I aim to develop efficient, scalable, and innovative solutions, always striving for continuous learning and excellence in project delivery.
+My entrepreneurial journey has enabled me to gain a deep understanding of client needs, allowing me to offer tailored solutions, strengthen relationships, and deliver consistent results.</p>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="ts logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
 </div>
 
----
+###
 
-## 🚀 Sobre Mim
+<h3 align="left"> 👩🏻 Conect wife me </h3>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=instagram" height="40" alt=instagram logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt=linkedin logo"  />
+</div>
 
-💻 Desenvolvedora Full Stack
+###
 
-🏢 Fundadora da Loretech.ls e Sabores do Universo
+<p align="center">•·•·•·•·•·•·•·•·•·••·•·•·•·•·•·•·•·•·••·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·••·•·•·•·•·•·•·•·•·••·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·••·•·•·•·•·•·•·•·•·••·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·•·</p>
 
-🌱 Atualmente aprofundando conhecimentos em:
-- Arquitetura de Software
-- Java e Spring Boot
-- Cloud Computing
-- Microsserviços
-- DevOps
-
-🎯 Focada em criar soluções modernas, escaláveis e centradas na experiência do usuário.
-
----
-
-## 🌎 Conecte-se comigo
+###
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/Lorena-Santos">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:santos.lorena848@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <img src="https://gitstatus-test.vercel.app/api?username=lennasantos&theme=omni&show_icons=true&hide_border=true&count_private=true" height="150" />
+  <img src="https://gitstatus-test.vercel.app/api/top-langs/?username=lennasantos&theme=omni&show_icons=true&hide_border=true&layout=compact" height="150" />
 </div>
 
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lennasantos&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lennasantos&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lennasantos&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-## 💻 Front-End
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind"/>
-
-</div>
-
----
-
-## ⚙️ Back-End
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring"/>
-
-</div>
-
----
-
-## 🗄️ Banco de Dados
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-</div>
-
----
-
-## 🛠️ Ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,notion"/>
-
-</div>
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lennasantos&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lennasantos&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Snake Animation
-
-> Para ativar esta animação você precisará criar um GitHub Action.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/lennasantos/lennasantos/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 👀 Visitantes
-
-![](https://profile-counter.glitch.me/lennasantos/count.svg)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=FF6B00"/>
-
-```
-
-```markdown id="x7s8in"
+###
