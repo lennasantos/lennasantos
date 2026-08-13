@@ -1,4 +1,4 @@
-<h1 align="center"> 👾 Developer Full Stack founder 🌐 Loretech.ls e 🪐 Sabores do Universo </h1>
+<h1 align="center">👾 Developer Full Stack | founder 🌐 Loretech.ls 🪐 Sabores do Universo</h1>
 
 ###
 
