@@ -63,7 +63,7 @@ My entrepreneurial journey has enabled me to gain a deep understanding of client
 
 ###
 
-<h3 align="left"> 👩🏻 Conect wife me </h3>
+<h3 align="left"> 👩🏻 Conect me </h3>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
 <img width="12" />
