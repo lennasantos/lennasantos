@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center"> 👩🏻‍🎓 Computer Network| 💻 Devoloper Web e Back End |📚 Continuous learning</h4>
+<h4 align="center"> 👩🏻‍🎓 Computer Network | 💻 Devoloper Web e Back End |📚 Continuous learning</h4>
 
 ###
 
